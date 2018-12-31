@@ -1,0 +1,7 @@
+[package]
+name = "monkeos"
+version = "0.1.0"
+authors = ["Yifeng Liu <laituan1986@gmail.com>"]
+edition = "2018"
+
+[dependencies]
